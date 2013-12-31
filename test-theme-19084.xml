@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="19084" name="my-Darkoula" modified="2013-08-08 11:10:14" author="Placard232">
+    <searchResultIndication color="#000000" />
+    <filteredSearchResultIndication color="#000000" />
+    <occurrenceIndication color="#000000" />
+    <writeOccurrenceIndication color="#000000" />
+    <findScope color="#111111" />
+    <deletionIndication color="#D25252" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#808080" italic="false" />
+    <multiLineComment color="#808080" italic="false" />
+    <commentTaskTag color="#CCDF32" italic="false" />
+    <javadoc color="#629755" italic="false" />
+    <javadocLink color="#D9E577" italic="false" />
+    <javadocTag color="#D9E577" italic="false" />
+    <javadocKeyword color="#D9E577" italic="false" />
+    <class color="#ACB9BF" bold="false" underline="false" strikethrough="false" />
+    <interface color="#D197D9" />
+    <method color="#ACB9BF" />
+    <methodDeclaration color="#BED6FF" />
+    <bracket color="#00D0D0" />
+    <number color="#7FB347" />
+    <string color="#A5C25C" />
+    <operator color="#D25252" bold="true" />
+    <keyword color="#D9E577" bold="true" />
+    <annotation color="#FFFFFF" />
+    <staticMethod color="#ACB9BF" />
+    <localVariable color="#FF8A30" bold="true" />
+    <localVariableDeclaration color="#FF8A30" bold="true" />
+    <field color="#9876AA" />
+    <staticField color="#9876AA" />
+    <staticFinalField color="#9876AA" />
+    <deprecatedMember color="#D25252" underline="false" strikethrough="true" />
+    <enum color="#7FB347" />
+    <inheritedMethod color="#BED6FF" />
+    <abstractMethod color="#BED6FF" />
+    <parameterVariable color="#79ABFF" bold="true" />
+    <typeArgument color="#BFA4A4" />
+    <typeParameter color="#BFA4A4" />
+    <constant color="#9876AA" />
+    <background color="#002B36" />
+    <currentLine color="#2A2A00" />
+    <foreground color="#ACB9BF" />
+    <lineNumber color="#D0D0D0" />
+    <selectionBackground color="#214383" />
+    <selectionForeground color="#D0D0D0" />
+</colorTheme>
